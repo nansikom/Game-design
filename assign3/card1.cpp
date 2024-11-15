@@ -31,7 +31,7 @@ Card::Card(const Card& C){
 ** Output: new rank and new suit result.
 ************************/
 
-
+ 
 
 int Card::get_rank( ){
   return this->rank;
