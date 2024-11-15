@@ -35,3 +35,4 @@ g++ -o pokedex *.cpp
 bash
 Copy code
 ./pokedex
+Note: Assignment was hosted by Oregon state university
